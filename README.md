@@ -37,8 +37,8 @@ I build scalable, resilient, and secure cloud systems with a strong focus on Dev
 
 ## 📫 Connect With Me  
 
-- LinkedIn: <!-- www.linkedin.com/in/jayantkrp -->
-- Email: <!-- jayantkumarkjh123@gmail.com -->
+- LinkedIn:  www.linkedin.com/in/jayantkrp 
+- Email:  jayantkumarkjh123@gmail.com 
 
 ---
 
