@@ -7,7 +7,7 @@ I build scalable, resilient, and secure cloud systems with a strong focus on Dev
 
 ## 🚀 About Me  
 
-- 🔧 Experienced in Cloud Migration & Modernization (On-Prem → AWS)  
+- 🔧 Experienced in Cloud Migration & Modernization  
 - ⚙️ Strong in Infrastructure as Code (Terraform)  
 - 🔁 Focused on CI/CD Automation & DevSecOps  
 - 📊 Skilled in Observability (Metrics, Logs, Traces)  
